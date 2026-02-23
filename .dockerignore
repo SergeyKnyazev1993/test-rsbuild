@@ -1,0 +1,7 @@
+node_modules
+.vscode
+.nx
+.idea
+coverage
+out
+dist
